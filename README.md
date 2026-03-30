@@ -9,5 +9,5 @@ The Methodology and tools used for the project are as follows:
 4. Excel for data analysis and visualition (the use of bar-graphs, doughnut charts, pie charts and line graphs to understand the data)
 5. Canva to create a presentation for the CEO
 
-The project aimed at sharing findings, recommendations and future improvements with the CEO, to ensure sustainable growth of the Bright Coffee Shop
+The project aimed at sharing findings, recommendations and future improvements with the CEO, to ensure sustainable growth of the Bright Coffee Shop.
 
